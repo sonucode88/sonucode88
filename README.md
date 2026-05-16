@@ -24,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Sonu**, a **Data Science & Analytics student** pursuing a B.S. in Computer Science with Data Analytics at **IIT Patna**.
+I'm **Sonu**, a **Data Science & Analytics student** pursuing a bachelor in Computer Science with Data Analytics at **IIT Patna**.
 
 I have a strong interest in transforming raw data into actionable business insights — whether that's through building predictive models, designing interactive dashboards, or analysing trends that drive smart decisions. I'm actively seeking an **internship as a Data Analyst or Business Analyst** where I can apply my analytical skills to real-world problems.
 
