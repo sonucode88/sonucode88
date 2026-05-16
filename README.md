@@ -30,7 +30,7 @@ I have a strong interest in transforming raw data into actionable business insig
 
 - 🎓 **Education** — Bachelor in  Computer Science + Data Analytics @ IIT Patna
 - 📊 **Strengths** — Data Analysis, Data Visualization, SQL, Python, Business Reporting
-- 🌱 **Learning** — Machine Learning, DSA & Problem Solving, Statistical Analysis                                                                                                           - 💡 **Interests** — Business Intelligence, Sports Analytics, Data Storytelling 
+- 🌱 **Learning** — Machine Learning, DSA & Problem Solving, Statistical Analysis                                                                                                           -  💡 **Interests** — Business Intelligence, Sports Analytics, Data Storytelling 
 - 💪 **Fun Fact** — I train at the gym 5x a week — the same consistency I bring to my work
 
 
