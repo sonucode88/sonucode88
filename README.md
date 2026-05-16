@@ -28,12 +28,12 @@ I'm **Sonu**, a **Data Science & Analytics student** pursuing a B.S. in Computer
 
 I have a strong interest in transforming raw data into actionable business insights — whether that's through building predictive models, designing interactive dashboards, or analysing trends that drive smart decisions. I'm actively seeking an **internship as a Data Analyst or Business Analyst** where I can apply my analytical skills to real-world problems.
 
-🎓 Education — Bachelor in Computer Science @ IIT Patna
-📊 Strengths — Data Analysis, Data Visualization, SQL, Python, Business Reporting
-🌱 Learning — Machine Learning, DSA & Problem Solving, Statistical Analysis
-🎯 Goal — Internship as a Data Analyst / Business Analyst
-💡 Interests — Business Intelligence, Sports Analytics, Data Storytelling
-💪 Fun Fact — I train at the gym 5x a week — the same consistency I bring to my work
+- 🎓 Education — Bachelor in Computer Science @ IIT Patna
+- 📊 Strengths — Data Analysis, Data Visualization, SQL, Python, Business Reporting
+- 🌱 Learning — Machine Learning, DSA & Problem Solving, Statistical Analysis
+- 🎯 Goal — Internship as a Data Analyst / Business Analyst
+- 💡 Interests — Business Intelligence, Sports Analytics, Data Storytelling
+- 💪 Fun Fact — I train at the gym 5x a week — the same consistency I bring to my work
 
 
 > *"Data without analysis is just noise. I turn the noise into decisions."*
